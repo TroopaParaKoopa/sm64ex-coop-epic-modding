@@ -8,5 +8,8 @@ We will be learning about of making mario health NOTHING!??!?!?!
 # m.health = 0xFF
 ![djoslin0willbeproudofme](https://cdn.discordapp.com/attachments/1159306336253792337/1160029099167850616/image.png?ex=65332c49&is=6520b749&hm=a8cd60892bf1f3c7857fb0daac57e7fa90e5d07b7d749fe17a37bb8ae13b9aee&)
 
+# m.health = 155
+![meetmeatmariohunt](https://cdn.discordapp.com/attachments/1159306336253792337/1160033265084792832/image.png?ex=6533302a&is=6520bb2a&hm=619f1fc1e9565ba651833f2c1080bf20cb1ed4b33b655d089d2d02ca18ae7bc6&)
+
 # Death Actions
 ![flabbergasted](https://media.discordapp.net/attachments/1159306336253792337/1160032686933553152/image.png?ex=65332fa0&is=6520baa0&hm=b360bfba6791f4fac26400d67a5216db6cacb19564f2835fc3d765d25a9d77d7&=)
