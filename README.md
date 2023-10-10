@@ -3,6 +3,7 @@
 be the best coop modder in the world guide
 
 # Making mario health NOTHING/!?!??!!!??
+be good at this trick!!!!!!!!!!!!!1
 
 # m.health = 0
 ```lua
