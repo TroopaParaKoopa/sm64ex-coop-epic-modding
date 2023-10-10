@@ -1,6 +1,13 @@
 ![omg real beytah luigi in logo wtf download mediafire pls](https://cdn.discordapp.com/attachments/1148358428473966693/1160025483392602132/cheesyweesy.gif?ex=653328eb&is=6520b3eb&hm=5dc06f92b3dd2f2477cdb1756052624ef57c8731d3acae60b924d24b838313a8&)
 # Welcome to sm64ex-coop epic modding
-be the best coop modder in the world guide
+be the best coop modder in the world and fill out an empty mario update function
+```lua
+-- THIS IS NOTHING!!
+local function mario_update(m)
+end
+
+hook_event(HOOK_MARIO_UPDATE, mario_update)
+```
 
 # Making mario health NOTHING/!?!??!!!??
 be good at this trick!!!!!!!!!!!!!1
